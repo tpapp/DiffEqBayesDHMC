@@ -30,12 +30,6 @@ git-tree-sha1 = "981354dab938901c2b607a213e62d9defa50b698"
 uuid = "4fba245c-0d91-5ea0-9b3e-6abc04ee57a9"
 version = "1.2.1"
 
-[[BSON]]
-deps = ["Profile", "Test"]
-git-tree-sha1 = "6453cef4f9cb8ded8e28e4d6d12e11e20eb692ea"
-uuid = "fbb218c0-5317-5bc6-957e-2ee96dd4b1f0"
-version = "0.2.3"
-
 [[BandedMatrices]]
 deps = ["FillArrays", "LazyArrays", "LinearAlgebra", "MatrixFactorizations", "Random", "SparseArrays"]
 git-tree-sha1 = "a58595d50a365c720fea52745e3a532eeecedc2a"
@@ -178,7 +172,7 @@ version = "0.8.0"
 
 [[DynamicHMC]]
 deps = ["ArgCheck", "DocStringExtensions", "LinearAlgebra", "LogDensityProblems", "NLSolversBase", "Optim", "Parameters", "Random", "Statistics", "StatsFuns", "TransformVariables"]
-git-tree-sha1 = "521fa10884d7cec67e5bbd9153ab8b86f89c3d15"
+git-tree-sha1 = "dda409c0b3a4c8fad748584722610deb3611ad2d"
 repo-rev = "master"
 repo-url = "https://github.com/tpapp/DynamicHMC.jl.git"
 uuid = "bbc10e6e-7c05-544b-b16e-64fede858acb"
